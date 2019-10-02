@@ -1,7 +1,20 @@
-function exampleFunction() {
+function isHot() {
 
 }
 
+
+function helloThere() {
+
+}
+
+
+function goodbyeYou() {
+
+}
+
+
 module.exports = {
-  exampleFunction,
+  isHot,
+  helloThere,
+  goodbyeYou,
 }
